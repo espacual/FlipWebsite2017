@@ -1,6 +1,6 @@
-# baseurl = "https://physics.ucr.edu/"  # End your URL with a `/` trailing slash.
-baseurl = "http://physics.ucr.edu/~flip/"   # End your URL with a `/` trailing slash.
-title = "Flip Tanedo @ UCR"
+# baseurl = "/"  # End your URL with a `/` trailing slash.
+baseurl = "/"   # End your URL with a `/` trailing slash.
+title = "Espacual"
 copyright = "&copy; 2017 Flip Tanedo" 
 theme = "academic"
 enableEmoji = true
